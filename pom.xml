@@ -47,7 +47,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 <sonar.host.url>http://34.125.135.231/:9000/</sonar.host.url>
-    <sonar.login>sqa_e2619a9b04cb541ff4df46f9c7261cec529286b6</sonar.login>
+    <sonar.login>squ_de02a8d07bbd54d863b78286c93633124cf7898f</sonar.login>
 
     <java.version>1.6</java.version>
     <junit.version>4.10</junit.version>
